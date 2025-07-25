@@ -42,4 +42,4 @@
 
 - ✉️Email: pvu_ru@icloud.com
 - 💬Telegram: [@vvryya](https://t.me/vvryya)
-- 👩🏼‍💻LinkedIn: [linkedin.com/in/vvryya](www.linkedin.com/in/vvryya)
+- 👩🏼‍💻LinkedIn: [www.linkedin.com/in/vvryya](https://www.linkedin.com/in/vvryya/)
