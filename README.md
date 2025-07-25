@@ -6,16 +6,16 @@
 
 ---
 
-## 🤓About Me
+## 🤓 About Me
 
-- 👩🏼‍🎓Bachelor's Degree in **Applied Informatics**
-- 💻Experience with **C#**, **Python**, and some **C++**
-- 👾Familiar with **Linux administration**, interested in transitioning into **DevOps**
-- 🌏Languages: **Russian** (native), **English** (C1), **Norwegian** (B1), currently learning **Chinese** (A2)
+- 👩🏼‍🎓 Bachelor's Degree in **Applied Informatics**
+- 💻 Experience with **C#**, **Python**, and some **C++**
+- 👾 Familiar with **Linux administration**, interested in transitioning into **DevOps**
+- 🌏 Languages: **Russian** (native), **English** (C1), **Norwegian** (B1), currently learning **Chinese** (A2)
 
 ---
 
-## 🛠️Tech  Stack & Tools
+## 🛠️ Tech  Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯Goals
+## 🎯 Goals
 
 - Transition into **DevOps/SRE engineering**
 - Improve skills in **CI/CD** and **Docker**
@@ -38,8 +38,8 @@
 
 ---
 
-## 📱How to Reach Me
+## 📱 How to Reach Me
 
-- ✉️Email: pvu_ru@icloud.com
-- 💬Telegram: [@vvryya](https://t.me/vvryya)
-- 👩🏼‍💻LinkedIn: [www.linkedin.com/in/vvryya](https://www.linkedin.com/in/vvryya/)
+- ✉️ Email: pvu_ru@icloud.com
+- 💬 Telegram: [@vvryya](https://t.me/vvryya)
+- 👩🏼‍💻 LinkedIn: [www.linkedin.com/in/vvryya](https://www.linkedin.com/in/vvryya/)
