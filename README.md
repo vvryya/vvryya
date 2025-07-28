@@ -38,6 +38,18 @@
 
 ---
 
+## 💫Projects
+
+| Project                                                              | Language    | Stack                      | 
+| -------------------------------------------------------------------- | ----------- | -------------------------- |
+| [todo-cli](https://github.com/vvryya/todo-cli)                       | Python      | CLI, JSON                  | 
+| [thesis](https://github.com/vvryya/thesis)                           | C#, Python  | Q-learning, simulation     |
+| [github-analyzer](https://github.com/vvryya/github-analyzer)         | Python      | GitHub API, visualization  |
+| [expense-tracker](https://github.com/vvryya/expense-tracker)         | C#          | WinForms/WPF, SQLite       |
+| [desktop-translator](https://github.com/vvryya/desktop-translator)   | C#          | WPF, DeepL API             |
+
+---
+
 ## 📱 How to Reach Me
 
 - ✉️ Email: pvu_ru@icloud.com
