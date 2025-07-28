@@ -42,11 +42,11 @@
 
 | Project                                                              | Language    | Stack                      | 
 | -------------------------------------------------------------------- | ----------- | -------------------------- |
-| [todo-cli](https://github.com/vvryya/todo-cli)                       | Python      | CLI, JSON                  | 
-| [thesis](https://github.com/vvryya/thesis)                           | C#, Python  | Q-learning, simulation     |
-| [github-analyzer](https://github.com/vvryya/github-analyzer)         | Python      | GitHub API, visualization  |
-| [expense-tracker](https://github.com/vvryya/expense-tracker)         | C#          | WinForms/WPF, SQLite       |
-| [desktop-translator](https://github.com/vvryya/desktop-translator)   | C#          | WPF, DeepL API             |
+| [todo-cli](https://github.com/vvryya/todo-cli)                       | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />      | CLI, JSON                  | 
+| [thesis](https://github.com/vvryya/thesis)                           | <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />  | Q-learning, simulation     |
+| [github-analyzer](https://github.com/vvryya/github-analyzer)         | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />      | GitHub API, visualization  |
+| [expense-tracker](https://github.com/vvryya/expense-tracker)         | <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />          | WinForms/WPF, SQLite       |
+| [desktop-translator](https://github.com/vvryya/desktop-translator)   | <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />          | WPF, DeepL API             |
 
 ---
 
