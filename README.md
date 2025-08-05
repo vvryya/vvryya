@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src ="https://img.shields.io/badge/sqlite-%2307405e?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
 ---
