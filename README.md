@@ -12,7 +12,7 @@
 - 💻 Experience with **C#**, **Python**, and some **C++**
 - 👾 Familiar with **Linux administration**, interested in transitioning into **DevOps**
 - 🧠 Interested in **machine learning** and **neural networks**, with ongoing self-study and project experience
-- 🌏 Languages: **Russian** (native), **English** (C1), **Norwegian** (B1), currently learning **Chinese** (A2)
+- 🌏 Languages: **Russian** (native), **English** (C1), **Norwegian** (B1), currently learning **Chinese** (HSK4)
 
 ---
 
